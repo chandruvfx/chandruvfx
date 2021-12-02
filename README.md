@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandruvfx
+- 👋 Hi, I’m chandrakanth santahatram
 - 👀 I’m Technical Director interested in developing tools in vide variety of VFX DCC's. Especially In Houdini 
 - 🌱 I’m currently revamping my skills in Houdini and USD ...
 - 📫 Feel Free to Reach me chandrakanth.infotecch@gmail.com
