@@ -1,6 +1,5 @@
 - 👋 Hi, I’m chandrakanth santahatram
 - 👀 I’m Technical Director interested in developing tools in vide variety of VFX DCC's. Always curious develop Houdini related stuff.  
-- 🌱 Currently revamping my skills in Houdini and USD ...
 - 📫 Reach me at chandrakanth.infotech@gmail.com
 
 <!---
